@@ -1,10 +1,10 @@
-# Developping-dataset
-
+# 開発中データセット
 1.  イラストデータセット
 2.  アニメシーンデータセット
 3.  OCR関係データセット
 
 # 1 イラストデータセット
+すべて手作業で収集
 ![image](https://user-images.githubusercontent.com/55880071/194797233-e7842ba0-9f86-40a4-882a-f0483e055930.png)
 
 # 2 アニメシーンデータセット
