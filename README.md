@@ -9,6 +9,7 @@
 ![image](https://user-images.githubusercontent.com/55880071/194797233-e7842ba0-9f86-40a4-882a-f0483e055930.png)
 
 # 2 アニメシーンデータセット
+シーン説明付与も並行して進めています。
 ![image](https://user-images.githubusercontent.com/55880071/194797332-32a2d725-0617-490c-ad29-6c8f896fb32c.png)
 
 # 3 OCRデータセット
