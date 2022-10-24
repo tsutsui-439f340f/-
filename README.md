@@ -19,4 +19,5 @@
 ![image](https://user-images.githubusercontent.com/55880071/194797534-db9bf762-05bd-4640-989b-9b8e88f23898.png)
 
 # 4 AIイラストデータセット
+すべて手作業で収集
 ![image](https://user-images.githubusercontent.com/55880071/197584533-481e6155-7eb2-4497-90f5-1013b6b58bb1.png)
